@@ -1,9 +1,4 @@
-//
-//  SaveAppApp.swift
-//  SaveApp
-//
-//  Created by Павлов Николай on 25.02.2026.
-//
+// made by Kirby_swift
 
 import SwiftUI
 

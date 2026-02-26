@@ -1,0 +1,29 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+
+# Build products
+*.ipa
+*.app
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# macOS
+.DS_Store
+*.log
+
+# Backend (optional)
+backend/venv/
+backend/__pycache__/
+*.pyc
